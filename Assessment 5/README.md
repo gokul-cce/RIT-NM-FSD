@@ -15,6 +15,8 @@ cd reactjs-portfolio-mern-website/databases
 mongoimport --uri "mongodb://127.0.0.1:27017/portfolio" --collection skills --jsonArray --file skills.json
 mongoimport --uri "mongodb://127.0.0.1:27017/portfolio" --collection projects --jsonArray --file projects.json
 mongoimport --uri "mongodb://127.0.0.1:27017/portfolio" --collection blogs --jsonArray --file blogs.json
+
+
 Installation
 cd reactjs-portfolio-mern-website
 
